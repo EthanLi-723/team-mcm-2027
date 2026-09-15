@@ -37,17 +37,20 @@
 
 - [x] 建仓库、约定目录结构
 - [x] Python 环境打通（medpy）
+- [x] 建模工具链补齐（statsmodels / networkx / pulp / seaborn / sympy / xlrd）
+- [x] 模型示例 01 · 评价类：熵权法 + TOPSIS（`code/example_01_topsis.py`）
+- [x] 模型示例 02 · 预测类：灰色预测 GM(1,1) + 回归对比（`code/example_02_gm11_forecast.py`）
 
 ### 进行中
 
-- [ ] 补齐建模工具链（statsmodels / networkx / pulp / seaborn）
 - [ ] 每人搭好本地环境并跑通 `code/plot_setup.py`
+- [ ] 模型示例 03 · 优化类（规划 / 启发式算法）
 
 ### 待办
 
 - [ ] 确定队名与三人分工
 - [ ] 精读 3 篇美赛 O 奖论文，写拆解笔记进 `notes/`
-- [ ] 每周一次模型专题（评价 / 预测 / 优化 / 图论）
+- [ ] 每周一次模型专题（评价 ✅ / 预测 ✅ / 优化 / 图论）
 - [ ] 12 月做一次 48 小时模拟赛
 
 ## 协作规矩
