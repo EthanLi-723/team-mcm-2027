@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 输出与缓存
+*.log
+*.tmp
+~$*
+
+# 大文件（按需删除下面几行）
+*.zip
+*.7z
+*.rar
+*.iso
